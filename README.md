@@ -1,4 +1,4 @@
-# tmux.conf
-This is my personal tmux configuration file. If it can be useful for somebody I'll be glad of it.
+# Repository archived
 
-Every config option is commented in the file.
+This repository is archived. i moved my dotfiles in the [dotfiles](https://github.com/mugnozzo/dotfiles "https://github.com/mugnozzo/dotfiles")
+repository.
